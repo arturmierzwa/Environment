@@ -5,6 +5,8 @@
 #include "HelloWorld.hpp"
 #include <stdexcept>
 
+//komentarz testowy
+
 namespace project
 {	
 
